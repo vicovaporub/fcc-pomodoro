@@ -1,0 +1,67 @@
+body {
+  background-color: darkgrey;
+}
+
+.pomodoro-timer {
+  padding: 1rem;
+  margin: 150px auto;
+  align-items: center;
+  justify-content: center;
+  outline: 5px solid black;
+  border-radius: 5px;
+  position: relative;
+  text-align: center;
+  background-color: crimson;
+  width: 500px;
+  height: auto;
+}
+
+#break-length, #session-length, #time-left {
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 7px;
+}
+
+.session-increment, .break-increment {
+  background-color: black;
+  color: white;
+  margin-right: 10px;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+}
+
+.session-decrement, .break-decrement {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+}
+
+#start_stop {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  margin-right: 10px;
+  width: 120px;
+  padding-top: 3px;
+  margin: 12px;
+  
+}
+
+#reset {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  width: 120px;
+  padding-top: 3px;
+}
+
+#time-left {
+  border: 1px solid white;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+

@@ -1,0 +1,1 @@
+This project is a Pomodoro Clock (25 + 5 clock) for the FreeCodeCamp's "Front End Development Libraries" certification, passing all 29 tests.
