@@ -3,10 +3,10 @@
 ## Using React, this project is a Pomodoro Timer (25 + 5 Clock) required for the [freeCodeCamp](https://www.freecodecamp.org)'s Front End Development Libraries certification.
 
 ## In this app you can see:
-1- Session Length: Starting with 25 minutes, you can increase up to 60, and decrease down to 1.
-2- Break Length: Starting with 5 minutes, you can increase up to 60, and decrease down to 1.
-3- Session Time: A countdown display for the Session and Break lengths, it will change automatically when hits 00:00 and play a sound to sinalize it changed.
-4- Start/Stop and Reset buttons: Will pause/resume the countdow, and will reset to default settings respectively
+1. Session Length: Starting with 25 minutes, you can increase up to 60, and decrease down to 1.
+2. Break Length: Starting with 5 minutes, you can increase up to 60, and decrease down to 1.
+3. Session Time: A countdown display for the Session and Break lengths, it will change automatically when hits 00:00 and play a sound to sinalize it changed.
+4. Start/Stop and Reset buttons: Will pause/resume the countdow, and will reset to default settings respectively
 
 **The tasks were:**
 - The app must have an element with `id="break-label"` that contains a string
