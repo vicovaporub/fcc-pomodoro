@@ -2,7 +2,7 @@
 
 ## Using React, this project is a Pomodoro Timer (25 + 5 Clock) required for the [freeCodeCamp](https://www.freecodecamp.org)'s Front End Development Libraries certification.
 
-## You can see this app running in (This CodePen Link)[https://codepen.io/mowchicy-the-decoder/details/zYyYeBb]
+## You can see this app running in [This CodePen Link](https://codepen.io/mowchicy-the-decoder/details/zYyYeBb)
 
 ## In this app you can see:
 1. Session Length: Starting with 25 minutes, you can increase up to 60, and decrease down to 1.
